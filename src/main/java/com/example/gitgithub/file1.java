@@ -66,6 +66,7 @@ package com.example.gitgithub;
 public class file1 {
     private String message = "Hello, GitHub!";
     private String author = "Mohamed Yassine Derbel";
+    private string version="1.0.0";
 
     public String getMessage() {
         return message;
